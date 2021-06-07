@@ -12,7 +12,7 @@ As an employee with a busy schedule, I want to add important events to a daily p
 
 ## Website Screenshots
 
-![Fullpage](.assets/screenshots/workdayscheduler.PNG)
+![Fullpage](assets/screenshots/workdayscheduler.PNG)
 ![Tasks](assets/screenshots/workdayschedule2.PNG)
 
 ## Built with
