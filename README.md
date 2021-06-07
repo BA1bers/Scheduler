@@ -6,9 +6,9 @@ As an employee with a busy schedule, I want to add important events to a daily p
 
 ## Installation
 
-[You can pull the link to my portfolio from here](https://ba1bers.github.io/Scheduler/)
+[You can pull the link to my portfolio from here](https://github.com/BA1bers/Scheduler)
 
-[My portfolio is published here]()
+[My portfolio is published here](https://ba1bers.github.io/Scheduler/)
 
 ## Website Screenshots
 
