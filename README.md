@@ -6,7 +6,7 @@ As an employee with a busy schedule, I want to add important events to a daily p
 
 ## Installation
 
-[You can pull the link to my portfolio from here]()
+[You can pull the link to my portfolio from here](https://ba1bers.github.io/Scheduler/)
 
 [My portfolio is published here]()
 
